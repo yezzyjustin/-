@@ -11,8 +11,12 @@
             "id": "3da10e573eb784c3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "哔哩哔哩/HCHHOH/论文研读之简化版Transformer：Simplifying Transformer Blocks.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "哔哩哔哩/HCHHOH/论文研读之简化版Transformer：Simplifying Transformer Blocks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "哔哩哔哩/HCHHOH/论文研读之简化版Transformer：Simplifying Transformer Blocks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "哔哩哔哩/HCHHOH/论文研读之简化版Transformer：Simplifying Transformer Blocks.md"
+              }
             }
           }
         ]
@@ -139,8 +147,9 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "72e1df38125b4236",
+  "active": "3da10e573eb784c3",
   "lastOpenFiles": [
+    "英语单词/1.2.2 Applied Computer Science.md",
     "论文/Mamba/Mamba-YOLO利用SSM技术提升目标检测性能.md",
     "论文/路面缺陷分割/语义分割的交叉关注.md",
     "论文/路面缺陷分割/CCNet Criss-Cross Attention for Semantic Segmentation.pdf",
@@ -183,7 +192,6 @@
     "红米图片",
     "论文/论文笔记/全面和精致：一个有效的变压器图像恢复.md",
     "论文/论文笔记/SwiGLU：GLU 变体改进变压器.md",
-    "论文/论文笔记/SPFormer：使用超像素表示增强视觉转换器.md",
     "论文/论文笔记",
     "论文/图片",
     "未命名"
