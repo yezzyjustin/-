@@ -1,0 +1,191 @@
+{
+  "main": {
+    "id": "1a2074a5e11533cb",
+    "type": "split",
+    "children": [
+      {
+        "id": "7cebf69c5c14c376",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3da10e573eb784c3",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d29557c149abbe29",
+    "type": "split",
+    "children": [
+      {
+        "id": "134d341f1b3da507",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "72e1df38125b4236",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ace5dd6847df4c19",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9c6fe96bdfb3a68e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 445.5
+  },
+  "right": {
+    "id": "9b162a5c8ac87012",
+    "type": "split",
+    "children": [
+      {
+        "id": "d474c21b3cbf302b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9097e01a7c37a97d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a937fbcf9e90f7d5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "eb29e248edf3265f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "bf0a36cb2b47155b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "remotely-save:Remotely Save": false
+    }
+  },
+  "active": "72e1df38125b4236",
+  "lastOpenFiles": [
+    "论文/Mamba/Mamba-YOLO利用SSM技术提升目标检测性能.md",
+    "论文/路面缺陷分割/语义分割的交叉关注.md",
+    "论文/路面缺陷分割/CCNet Criss-Cross Attention for Semantic Segmentation.pdf",
+    "论文/图片/Pasted image 20240615134357.png",
+    "论文/图片/Pasted image 20240615134342.png",
+    "论文/图片/Pasted image 20240615134325.png",
+    "论文/图片/Pasted image 20240615134142.png",
+    "论文/图片/Pasted image 20240615133007.png",
+    "未命名.md",
+    "论文/路面缺陷分割/面向表面缺陷检测的语义感知多级特征交互网络.md",
+    "论文/路面缺陷分割/1-s2.0-S0952197623006589-main.pdf",
+    "论文/图片/Pasted image 20240612141816.png",
+    "1-s2.0-S0952197623006589-main 1.pdf",
+    "论文/图片/Pasted image 20240612141748.png",
+    "论文/图片/Pasted image 20240612141157.png",
+    "Pasted image 20240612141154.png",
+    "Pasted image 20240610194239.png",
+    "论文/路面缺陷分割",
+    "论文/DetectFormer：用于交通场景对象检测的类别辅助变压器.md",
+    "论文/论文笔记/一种用于路面病害自动检测的迭代优化补丁标签推理网络.md",
+    "论文/论文笔记/基于动态加权的小波注意神经网络缺陷检测.md",
+    "论文/论文笔记/!!!TransXNet：结合局部和全局注意力提供强大的归纳偏置和高效感受野.md",
+    "论文/论文笔记/!!!SwinFuse：用于红外和可见图像的残余Swin变压器融合网络.md",
+    "论文/论文笔记/!!!TransNeXt：用于视觉变形器的鲁棒中央凹视觉感知未命名.md",
+    "论文/论文笔记/!!!PIDNet：基于注意力引导的实时语义分割网络.md",
+    "论文/论文笔记/!!!PE-YOLO：黑夜目标检测.md",
+    "论文/论文笔记/!!!FMViT：高低频特征混合的全新高效CNN-ViT轻量级视觉主干.md",
+    "论文/论文笔记/!!!用于目标检测的集中特征金字塔.md",
+    "论文/论文笔记/!!!AS3ITransUNet：高光谱超分辨率交替采样空间光谱交互式变压器U-Net.md",
+    "论文/论文笔记/!!!具有注意力图幻觉和 FFN 压缩功能的视觉转换器.md",
+    "论文/论文笔记/即插即用的注意力模块HAT：激活更多有用像素助力low-level任务显著涨点.md",
+    "论文/论文笔记/BRAU-Net++：用于医学图像分割的U型混合CNN-Transformer网络.md",
+    "论文/论文笔记/CFNet-用于密集预测的级联融合网络.md",
+    "论文/论文笔记/CTNet：一种交叉Transformer的图像去噪方法.md",
+    "论文/Mamba/旋转扫描：unet -类曼巴与三重SSM模块用于医学图像分割未命名.md",
+    "红米笔记/多维协作注意模块MCA.md",
+    "论文/Mamba",
+    "红米笔记/用于医学图像分割的双重交叉注意力.md",
+    "红米笔记",
+    "红米图片",
+    "论文/论文笔记/全面和精致：一个有效的变压器图像恢复.md",
+    "论文/论文笔记/SwiGLU：GLU 变体改进变压器.md",
+    "论文/论文笔记/SPFormer：使用超像素表示增强视觉转换器.md",
+    "论文/论文笔记",
+    "论文/图片",
+    "未命名"
+  ]
+}

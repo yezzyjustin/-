@@ -1,0 +1,12 @@
+{
+  "blue-topaz-theme@@color-scheme-options": "color-scheme-options-avocado-topaz",
+  "blue-topaz-theme@@background-settings-workplace-background-image": false,
+  "blue-topaz-theme@@background-settings-workplace-theme-light": "background-settings-workplace-theme-light-leaf",
+  "blue-topaz-theme@@background-image-settings-switch": false,
+  "blue-topaz-theme@@background-image-settings-markdown-page-options": "background-image-settings-markdown-page-sea-and-sky",
+  "blue-topaz-theme@@background-image-settings-command-palette-switch": false,
+  "blue-topaz-theme@@clutter-free-headings": true,
+  "blue-topaz-theme@@funny-header-anim": true,
+  "blue-topaz-theme@@remove-heading-indicator": true,
+  "blue-topaz-theme@@retain-header-color": true
+}
